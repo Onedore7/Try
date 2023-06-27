@@ -3,6 +3,6 @@
     "description": "Hexated Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/2a74f9b74100a9359eb70684295c3ed88f37c1df/build.gradle.kts"
+      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/.github/workflows/build.yml"
     ]
   }
